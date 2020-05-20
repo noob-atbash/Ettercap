@@ -1,11 +1,7 @@
----
-layout: post
-title: ETTERCAP
-image: img/ettercap.png
-author: [ERROR]
-date: 2020-05-09T07:03:47.149Z
-tags: [TOOLS]
----
+
+# ETTERCAP
+
+
 
 This writeup is about the tool **ettercap** that can be used in many **POST CONNECTION ATTACKS** so post-connections attacks works against Wifi & Ethernet both, in this attacks you can manually capture data and bypass HTTPs and some router-side security features you can also analyse data flows.
 
